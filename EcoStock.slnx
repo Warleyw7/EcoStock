@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EcoStock.Api/EcoStock.Api.csproj" />
+    <Project Path="src/EcoStock.Application/EcoStock.Application.csproj" />
+    <Project Path="src/EcoStock.Domain/EcoStock.Domain.csproj" />
+    <Project Path="src/EcoStock.Infrastructure/EcoStock.Infrastructure.csproj" />
+  </Folder>
+</Solution>
